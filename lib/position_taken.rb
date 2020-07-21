@@ -5,4 +5,4 @@ def position_taken?(board, index)
    puts "false"
  end
 end
-position_taken?(board, 3)
+
