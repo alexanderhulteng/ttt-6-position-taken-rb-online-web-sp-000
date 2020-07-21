@@ -1,5 +1,5 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-index = 0
+index = " "
 def position_taken?(board, index)
  if board[index] == "  "
    puts "false"
